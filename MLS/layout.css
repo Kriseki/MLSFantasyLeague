@@ -1,0 +1,134 @@
+/******NAVBAR************/
+.navbar {
+	position: fixed;
+	width: 100%;
+}
+.sign {
+	margin-left: 850px;
+}
+
+/*******MAINPAGE********/
+
+body {
+	background-image: url("images/background1.jpg");
+}
+
+.logo {
+	height: 300px;
+	width: 300px;
+	margin-left: 39%;
+	margin-top: 150px;
+}
+
+.frontMain {
+	height: 600px;
+	background-image: url("images/background.png");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.headtohead {
+	background-image: url("images/background1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-bottom: 1px solid black;
+	padding-top: 200px;
+	padding-bottom: 50px;
+	height: 540px;
+}
+
+.headtext {
+	float: left;
+	margin-left: 10%;
+	text-align: center;
+}
+
+.headpic {
+	margin-left: 50%;
+	display: inline-block;
+	margin-top: -400px;
+}
+
+.playerteam {
+	margin-top: 15px;
+	background-image: url("images/background1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: block;
+	height: 450px;
+}
+
+.playerteampic {
+	float: left;
+	margin-top: 100px;
+	margin-left: 75px;
+}
+
+.playerteamtext {
+	display: inline-block;
+	margin-left: 25%;
+	margin-top: 15%;
+	text-align: center;
+	width: 400px;
+}
+
+.transfer {
+	height: 400px;
+	background-image: url("images/background1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.transfertext {
+	float: left;
+	width: 40%;
+	margin-left: 10%;
+	margin-top: 150px;
+	text-align: center;
+}
+
+.transferpic {
+	width: 400px;
+	display: inline-block;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+
+/******NEWS***********/
+
+.newsContent {
+	background-image: url("images/background1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 200px;
+	padding-bottom: 50px;
+	text-align: center;
+
+}
+
+.newsContent h1 {
+	margin-top: -140px;
+}
+
+.newsboard {
+	background-image: url("images/background2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+	border-radius: 10px;
+	height: 80%;
+	width: 60%;
+	margin: 0 auto;
+	margin-top: 30px;
+	height: 500px;
+}
+
+.newsitem {
+
+	padding-top: 5px;
+	text-align: left;
+	padding-left: 5px;
+}
